@@ -43,5 +43,7 @@ function closeReadline() {
 }
 
 function problem(input) {
+    input.forEach(testCase => {
 
+    })
 }
